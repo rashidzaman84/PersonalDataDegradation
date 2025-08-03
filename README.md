@@ -14,7 +14,7 @@ Proof of concept implementation for:
 - [Data minimisation as privacy and trust instrument in business processes](https://link.springer.com/chapter/10.1007/978-3-030-66498-5_2). Rashid Zaman, Marwan Hassani, and Boudewijn F. van Dongen - BPM 2020
 
 
-These Camnunda webapps are related to the Intra-process data degradation approach proposed in the abovementioned papers. Business processes consume and produce data regarding data subjects. However, such data may become redundant during the course of the relevant process(es). The proposed approach degrades personal data of data subjects with the passage of time/process, thereby reducing the impact of potential data breaches. 
+These Camunda webapps are related to the Intra-process data degradation approach proposed in the abovementioned papers. Business processes consume and produce data regarding data subjects. However, such data may become redundant during the course of the relevant process(es). The proposed approach degrades personal data of data subjects with the passage of time/process, thereby reducing the impact of potential data breaches. 
 
 
 
